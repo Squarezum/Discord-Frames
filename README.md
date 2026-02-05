@@ -20,6 +20,8 @@ pip install -r .\requirements.txt
 
 All you really have to do is add your bot token in the **.env** file and run **main.py** on the machine you want to host the bot on
 
+Make sure to label your frames as 1.png, 2.png, etc 
+
 If you don't have a bot already you can [follow the official guide here](https://discord.com/developers/docs/quick-start/getting-started)
 
 ## Contribute
@@ -27,5 +29,6 @@ If you don't have a bot already you can [follow the official guide here](https:/
 If you'd like to add something to the bot, I'm open to pull requests!
 
 ## License
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
